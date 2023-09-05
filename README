@@ -8,14 +8,14 @@
  Complex data (magnitude and phase) is acquired for a single subject at different SNR/resolution regimes, under *~/EDDEN/sub-01/ses-XXX/dwi/*:
 
 - **Dataset A (2mm)** 
-		- This dataset represents a relatively medium-to-high SNR regime.
-		- 6 repeats of a 2mm isotropic multi-shell dataset each implementing the UK Biobank protocol (Miller et al., 2016)
-		- TR=3s, TE=92ms, MB=3, no in-plane acceleration, scan time ∼6 minutes per repeat.
-		- For each repeat, 116 volumes were acquired: 105 volumes with AP phase encoding direction, such as 5 b = 0 s/mm2 volumes, and 100 diffusion encoding orientations, with 50 b = 1000 s/mm2 and 50 b = 2000 s/mm2 volumes; and 4 b = 0 s/mm2 volumes with reversed phase encoding direction (PA) for susceptibility induced distortion correction (Andersson and Skare, 2002). 
-		- *NOTES*: Only 1 PA set of volumes was acquired for all the runs.
+	- This dataset represents a relatively medium-to-high SNR regime.
+	- 6 repeats of a 2mm isotropic multi-shell dataset each implementing the UK Biobank protocol (Miller et al., 2016)
+	- TR=3s, TE=92ms, MB=3, no in-plane acceleration, scan time ∼6 minutes per repeat.
+	- For each repeat, 116 volumes were acquired: 105 volumes with AP phase encoding direction, such as 5 b = 0 s/mm2 volumes, and 100 diffusion encoding orientations, with 50 b = 1000 s/mm2 and 50 b = 2000 s/mm2 volumes; and 4 b = 0 s/mm2 volumes with reversed phase encoding direction (PA) for susceptibility induced distortion correction (Andersson and Skare, 2002). 
+	- *NOTES*: Only 1 PA set of volumes was acquired for all the runs.
 
-	- **Dataset B (1p5mm)**: 
-		- This is a low-to-medium SNR dataset, with relatively high resolution.
+- **Dataset B (1p5mm)**: 
+	- This is a low-to-medium SNR dataset, with relatively high resolution.
 		- 5 repeats of a 1.5 mm isotropic multi-shell dataset, each implementing an HCP-like protocol in terms of q-space sampling (Sotiropoulos et al., 2013a).
 		- TR=3.23 s, TE=89.2 ms, MB=4 no in-plane acceleration, scan time ∼16 minutes per repeat. 
 		- For each repeat, 300 volumes were acquired: 297 volumes with AP phase encoding direction, such as 27 b = 0 s/mm2 volumes, and 270 diffusion encoding orientations, with 90 b = 1000 s/mm2, 90 b = 2000 s/mm2, and 90 b = 3000 s/mm2 volumes; and 3 b = 0 s/mm2 volumes with PA phase encoding for susceptibility-induced distortion correction. 

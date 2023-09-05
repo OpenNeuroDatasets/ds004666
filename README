@@ -6,6 +6,7 @@
 
  ####RAW
  Complex data (magnitude and phase) is acquired for a single subject at different SNR/resolution regimes, under *~/EDDEN/sub-01/ses-XXX/dwi/*:
+
 	- **Dataset A (2mm)** 
 		- This dataset represents a relatively medium-to-high SNR regime.
 		- 6 repeats of a 2mm isotropic multi-shell dataset each implementing the UK Biobank protocol (Miller et al., 2016)

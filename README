@@ -33,14 +33,16 @@ Each dataset contains their own T1w-MPRAGE under *~/EDDEN/sub-01/ses-XXX/anat/*.
 ###DERIVATIVES
 
 Here are the different denoised version of the raw data for the different datasets, the pre-processed data for the raw, denoised and averages, and the FA, MD and V1 outputs from the DTI model fitting (see *Data pre-processing* section below).
-- Denoised data:
+
+- **Denoised data**:
 	- *NLM* (NLM), for Non-Local Means denoising applied to magnitude raw data.
 	- *MPPCA* (|MPPCA|), for Marchenko-Pastur PCA denoising applied to magnitude raw data.
 	- *MPPCA_complex* (MPPCA*), for Marchenko-Pastur PCA denoising applied to complex raw data.
 	- *NORDIC* (NORDIC), for NORDIC applied to complex raw data.
 	- *AVG_mag* (|AVG|), for the average of the multiple repeats in magnitude.
 	- *AVG_complex* (AVG*), for the average in the complex space of the multiple repeats.
-- Masks:
+
+- **Masks**:
 Under *~/EDDEN/derivatives/ses-XXX/masks* we can find different masks for each dataset: 
 	- *GM_mask*: Gray Matter mask.
 	- *WM_mask*: White Matter mask.

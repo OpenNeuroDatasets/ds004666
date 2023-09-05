@@ -4,7 +4,7 @@
 
  ###Description of the dataset
 
- - **RAW**
+ ####RAW
  Complex data (magnitude and phase) is acquired for a single subject at different SNR/resolution regimes, under *~/EDDEN/sub-01/ses-XXX/dwi/*:
 	- **Dataset A (2mm)** 
 		- This dataset represents a relatively medium-to-high SNR regime.

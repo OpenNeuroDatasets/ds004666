@@ -1,5 +1,5 @@
 {
-    "Name": "EDDEN",
+    "Name": "EDDEN: Evaluation of Diffusion MRI DENoising",
     "BIDSVersion": "1.12.0",
     "Authors": [
         "Jose Pedro Manzano Patron",

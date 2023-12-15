@@ -1,6 +1,6 @@
 ##EDDEN (Evaluation of DMRI DENoising)
  
-**EDDEN**  dataset corresponds to the publication: *Manzano Patron, J.P., Moeller, S., Andersson, J.L.R., Ugurbil, K., Yacoub, E., Sotiropoulos, S.N. Denoising Diffusion MRI: Considerations and implications for analysis*. doi: https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00060/118691/Denoising-Diffusion-MRI-Considerations-and. Please, cite it if you use this dataset.
+**EDDEN**  dataset corresponds to the publication: *Manzano Patron, J.P., Moeller, S., Andersson, J.L.R., Ugurbil, K., Yacoub, E., Sotiropoulos, S.N. Denoising Diffusion MRI: Considerations and implications for analysis*. doi: https://doi.org/10.1162/imag_a_00060. Please, cite it if you use this dataset.
 
  ###Description of the dataset
 

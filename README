@@ -1,6 +1,10 @@
 ##EDDEN (Evaluation of DMRI DENoising)
  
-**EDDEN**  dataset corresponds to the publication: *Manzano-Patron et al, Denoising Diffusion MRI: Considerations and implications for analysis, Imaging Neuroscience, 2023 (https://doi.org/10.1162/imag_a_00060)*. Please, cite it if you use this dataset.
+**EDDEN**  dataset corresponds to the publication: 
+
+*Manzano-Patron et al, Denoising Diffusion MRI: Considerations and implications for analysis, Imaging Neuroscience, 2023 (https://doi.org/10.1162/imag_a_00060)*. 
+
+Please, cite it if you use this dataset.
 
  ###Description of the dataset
 

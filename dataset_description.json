@@ -12,9 +12,7 @@
     "License": "CC0",
     "Funding": [
         "ERC Consolidator - 101000969",
-        "NIH P41EB027061",
-        "NIH U01EB025144",
-        "NIH RF1 MH116978"
+        "NIH U01EB025144"
     ],
     "DatasetDOI": "doi:10.18112/openneuro.ds004666.v1.0.2"
 }

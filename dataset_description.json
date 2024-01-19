@@ -15,5 +15,5 @@
         "NIH U01EB025144"
     ],
     "DatasetDOI": "doi:10.18112/openneuro.ds004666.v1.0.4",
-    "HowToAcknowledge": "Please cite paper Manzano-Patron et al, Denoising Diffusion MRI: Considerations and implications for analysis,Imaging Neuroscience, 2023 (https://doi.org/10.1162/imag_a_00060)"
+    "HowToAcknowledge": "Please cite paper Manzano-Patron, J.P. et al, Denoising Diffusion MRI: Considerations and implications for analysis, Imaging Neuroscience, 2023 (https://doi.org/10.1162/imag_a_00060)"
 }

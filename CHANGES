@@ -1,3 +1,5 @@
+1.0.7 2026-01-14
+  - Corrupted data (AVG_mag_dwi_processed and MPPCA_complex_dwi_processed) at 0.9mm updated
 1.0.6 2026-01-14
   - 1.0.6. New json file for phase data and update of corrupted nifti data at 2mm and 1p5mm
 1.0.5 2024-06-04

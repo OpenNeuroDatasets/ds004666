@@ -1,3 +1,5 @@
+1.0.8 2026-01-25
+  - Removed undesired temporary files
 1.0.7 2026-01-14
   - Corrupted data (AVG_mag_dwi_processed and MPPCA_complex_dwi_processed) at 0.9mm updated
 1.0.6 2026-01-14
